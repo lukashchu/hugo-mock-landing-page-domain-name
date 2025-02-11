@@ -16,9 +16,9 @@ aliases:
 
 Open-source MIT Licensed Hugo Theme, using Bootstrap 5.
 
-- 🛡️ Security aware
+- 🛡️ Higher payouts
 
-  Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.
+  Respondents can receive higher payouts than what is possible with other crowdsourcing platforms.
 
 - ⚡ Fast by default
 
