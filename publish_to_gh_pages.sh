@@ -3,8 +3,8 @@
 ###################################################################################
 # Automatic gh-pages site updater
 #
-# Author:  Jérémie Lumbroso <lumbroso@seas.upenn.edu>, Andrew Lukashchuk <aluk@seas.upenn.edu
-# Date:    February 13, 2025
+# Author:  Jérémie Lumbroso <lumbroso@seas.upenn.edu>
+# Date:    February 13, 2024
 #
 # This script automates updating a GitHub Pages site hosted on the gh-pages branch 
 # of a repository. It takes a local folder containing the static site content and 
@@ -67,8 +67,12 @@ rsync -av --delete --exclude '.git' "$FOLDER/" "$TMP_REPO_DIR/"
 cd "$TMP_REPO_DIR" || exit
 
 # Check if there are any changes. If so, commit and push them.
-git add .
-git commit -m "Update gh-pages"
-# Ensure the remote is set to the target repository
-git remote add origin "https://github.com/$REPO.git"
-git push -u origin $BRANCH
+if [ -n "$(git status --porcelain)" ]; then
+    git add .
+    git commit -m "Update gh-pages"
+    # Ensure the remote is set to the target repository
+    git remote add origin "https://github.com/$REPO.git"
+    git push -u origin $BRANCH
+else
+    echo "No changes to commit."
+fi
