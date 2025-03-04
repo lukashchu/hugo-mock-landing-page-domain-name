@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Series on Opus</title>
-    <link>https://aluk.tech/hugo-mock-landing-page/series/</link>
-    <description>Recent content in Series on Opus</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Andrew Lukashchuk</copyright>
-    <atom:link href="https://aluk.tech/hugo-mock-landing-page/series/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Series on Opus</title><link>https://aluk.tech/hugo-mock-landing-page-autodeployed/series/</link><description>Recent content in Series on Opus</description><generator>Hugo</generator><language>en</language><copyright>Andrew Lukashchuk</copyright><atom:link href="https://aluk.tech/hugo-mock-landing-page-autodeployed/series/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
