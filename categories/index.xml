@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Opus</title><link>https://aluk.tech/hugo-mock-landing-page/categories/</link><description>Recent content in Categories on Opus</description><generator>Hugo</generator><language>en</language><copyright>Andrew Lukashchuk</copyright><lastBuildDate>Mon, 10 Feb 2025 23:48:08 -0500</lastBuildDate><atom:link href="https://aluk.tech/hugo-mock-landing-page/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo Release Notes</title><link>https://aluk.tech/hugo-mock-landing-page/categories/hugo-release-notes/</link><pubDate>Sun, 24 Sep 2023 00:00:00 -0400</pubDate><guid>https://aluk.tech/hugo-mock-landing-page/categories/hugo-release-notes/</guid><description/></item><item><title>The Bootstrap Blog</title><link>https://aluk.tech/hugo-mock-landing-page/categories/the-bootstrap-blog/</link><pubDate>Tue, 30 May 2023 00:00:00 -0400</pubDate><guid>https://aluk.tech/hugo-mock-landing-page/categories/the-bootstrap-blog/</guid><description/></item><item><title>Hugo Bootstrap Theme</title><link>https://aluk.tech/hugo-mock-landing-page/categories/hugo-bootstrap-theme/</link><pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate><guid>https://aluk.tech/hugo-mock-landing-page/categories/hugo-bootstrap-theme/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Opus</title>
+    <link>https://aluk.tech/hugo-mock-landing-page/categories/</link>
+    <description>Recent content in Categories on Opus</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Andrew Lukashchuk</copyright>
+    <lastBuildDate>Mon, 03 Mar 2025 21:41:12 -0500</lastBuildDate>
+    <atom:link href="https://aluk.tech/hugo-mock-landing-page/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Opus Updates</title>
+      <link>https://aluk.tech/hugo-mock-landing-page/categories/opus-updates/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 -0500</pubDate>
+      <guid>https://aluk.tech/hugo-mock-landing-page/categories/opus-updates/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Opus</title><link>https://aluk.tech/hugo-mock-landing-page/tags/</link><description>Recent content in Tags on Opus</description><generator>Hugo</generator><language>en</language><copyright>Andrew Lukashchuk</copyright><lastBuildDate>Wed, 12 Feb 2025 23:21:07 -0500</lastBuildDate><atom:link href="https://aluk.tech/hugo-mock-landing-page/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo</title><link>https://aluk.tech/hugo-mock-landing-page/tags/hugo/</link><pubDate>Sun, 24 Sep 2023 00:00:00 -0400</pubDate><guid>https://aluk.tech/hugo-mock-landing-page/tags/hugo/</guid><description/></item><item><title>Bootstrap</title><link>https://aluk.tech/hugo-mock-landing-page/tags/bootstrap/</link><pubDate>Tue, 30 May 2023 00:00:00 -0400</pubDate><guid>https://aluk.tech/hugo-mock-landing-page/tags/bootstrap/</guid><description/></item><item><title>Featured</title><link>https://aluk.tech/hugo-mock-landing-page/tags/featured/</link><pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate><guid>https://aluk.tech/hugo-mock-landing-page/tags/featured/</guid><description/></item><item><title>Index</title><link>https://aluk.tech/hugo-mock-landing-page/tags/index/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aluk.tech/hugo-mock-landing-page/tags/index/</guid><description/></item><item><title>Privacy</title><link>https://aluk.tech/hugo-mock-landing-page/tags/privacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aluk.tech/hugo-mock-landing-page/tags/privacy/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Opus</title>
+    <link>https://aluk.tech/hugo-mock-landing-page/tags/</link>
+    <description>Recent content in Tags on Opus</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Andrew Lukashchuk</copyright>
+    <lastBuildDate>Mon, 03 Mar 2025 21:45:59 -0500</lastBuildDate>
+    <atom:link href="https://aluk.tech/hugo-mock-landing-page/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://aluk.tech/hugo-mock-landing-page/tags/ai/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 -0500</pubDate>
+      <guid>https://aluk.tech/hugo-mock-landing-page/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>https://aluk.tech/hugo-mock-landing-page/tags/automation/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 -0500</pubDate>
+      <guid>https://aluk.tech/hugo-mock-landing-page/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crowdsourcing</title>
+      <link>https://aluk.tech/hugo-mock-landing-page/tags/crowdsourcing/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 -0500</pubDate>
+      <guid>https://aluk.tech/hugo-mock-landing-page/tags/crowdsourcing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gig Economy</title>
+      <link>https://aluk.tech/hugo-mock-landing-page/tags/gig-economy/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 -0500</pubDate>
+      <guid>https://aluk.tech/hugo-mock-landing-page/tags/gig-economy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Surveys</title>
+      <link>https://aluk.tech/hugo-mock-landing-page/tags/surveys/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 -0500</pubDate>
+      <guid>https://aluk.tech/hugo-mock-landing-page/tags/surveys/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Featured</title>
+      <link>https://aluk.tech/hugo-mock-landing-page/tags/featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aluk.tech/hugo-mock-landing-page/tags/featured/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Index</title>
+      <link>https://aluk.tech/hugo-mock-landing-page/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aluk.tech/hugo-mock-landing-page/tags/index/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>https://aluk.tech/hugo-mock-landing-page/tags/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aluk.tech/hugo-mock-landing-page/tags/privacy/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

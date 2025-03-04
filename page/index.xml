@@ -1,166 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on Opus</title><link>https://aluk.tech/hugo-mock-landing-page/page/</link><description>Recent content in Docs on Opus</description><generator>Hugo</generator><language>en</language><copyright>Andrew Lukashchuk</copyright><atom:link href="https://aluk.tech/hugo-mock-landing-page/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Bootstrap Carousel 🎠</title><link>https://aluk.tech/hugo-mock-landing-page/page/bootstrap-carousel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aluk.tech/hugo-mock-landing-page/page/bootstrap-carousel/</guid><description>&lt;h1 id="bootstrap-carousel">Bootstrap Carousel&lt;/h1>
-&lt;p>A slideshow component for cycling through elements—images or slides of text — like a carousel.&lt;/p>
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;p>See &lt;a href="https://getbootstrap.com/docs/5.3/components/carousel/" target="_blank" rel="noopener">Carousel documentation&lt;/a>.&lt;/p></description></item><item><title>Bootstrap Components ✨</title><link>https://aluk.tech/hugo-mock-landing-page/page/bootstrap-components/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aluk.tech/hugo-mock-landing-page/page/bootstrap-components/</guid><description>&lt;h1 id="bootstrap-components">Bootstrap Components&lt;/h1>
-&lt;p>Bootstrap is bundled with tens of components that can be reused to provide a good user experience and user interactions in a web page.&lt;/p>
-&lt;hr>
-&lt;h2 id="accordion">Accordion&lt;/h2>
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;p>See &lt;a href="https://getbootstrap.com/docs/5.3/components/accordion/" target="_blank" rel="noopener">Accordion documentation&lt;/a>.&lt;/p>
-&lt;hr>
-&lt;h2 id="alert">Alert&lt;/h2>
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;p>See &lt;a href="https://getbootstrap.com/docs/5.3/components/alerts/" target="_blank" rel="noopener">Alert documentation&lt;/a>.&lt;/p>
-&lt;hr>
-&lt;h2 id="badge">Badge&lt;/h2>
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;p>&lt;!-- raw HTML omitted -->Rounded pill&lt;!-- raw HTML omitted -->&lt;/p></description></item><item><title>Markdown Cheat Sheet Ⓜ️⬇️</title><link>https://aluk.tech/hugo-mock-landing-page/page/markdown-cheat-sheet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aluk.tech/hugo-mock-landing-page/page/markdown-cheat-sheet/</guid><description>&lt;h1 id="markdown-cheat-sheet">Markdown Cheat Sheet&lt;/h1>
-&lt;p>Hugo has excellent Markdown support out of the box. By default, Hugo uses the &lt;a href="https://github.com/yuin/goldmark/" target="_blank" rel="noopener">Goldmark Markdown processor&lt;/a> which is fully CommonMark-compliant. See the &lt;a href="https://gohugo.io/getting-started/configuration-markup/" target="_blank" rel="noopener">configuration instructions&lt;/a> to learn more about the extensions you can configure.&lt;/p>
-&lt;h2 id="overview">Overview&lt;/h2>
-&lt;p>You can refer to the table below for an overview of basic markdown syntax:&lt;/p>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>TASK&lt;/th>
- &lt;th>MARKDOWN SYNTAX&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>Heading 1&lt;/td>
- &lt;td>&lt;code>#&lt;/code>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Heading 2&lt;/td>
- &lt;td>&lt;code>##&lt;/code>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Heading 3&lt;/td>
- &lt;td>&lt;code>###&lt;/code>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Italics&lt;/td>
- &lt;td>&lt;code>*italics*&lt;/code>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Bold&lt;/td>
- &lt;td>&lt;code>**Bold**&lt;/code>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Strike&lt;/td>
- &lt;td>&lt;code>~~strike~~&lt;/code>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Blockquote&lt;/td>
- &lt;td>&lt;code>&amp;gt;&lt;/code>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Links&lt;/td>
- &lt;td>&lt;code>[link name](https://link.com)&lt;/code>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Images&lt;/td>
- &lt;td>&lt;code>![Image name](image.png)&lt;/code>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Unordered list&lt;/td>
- &lt;td>&lt;code>* List item&lt;/code>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Ordered list&lt;/td>
- &lt;td>&lt;code>1. List item&lt;/code>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Inline Code&lt;/td>
- &lt;td>&lt;!-- raw HTML omitted -->`insert code here`&lt;!-- raw HTML omitted -->&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>{.table .table-sm .table-striped .table-hover}&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h2 id="headings">Headings&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span># Heading 1
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">## Heading 2
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">### Heading 3
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#### Heading 4
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">##### Heading 5
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">###### Heading 6
-&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h1 id="heading-1">Heading 1&lt;/h1>
-&lt;h2 id="heading-2">Heading 2&lt;/h2>
-&lt;h3 id="heading-3">Heading 3&lt;/h3>
-&lt;h4 id="heading-4">Heading 4&lt;/h4>
-&lt;h5 id="heading-5">Heading 5&lt;/h5>
-&lt;h6 id="heading-6">Heading 6&lt;/h6>
-&lt;hr>
-&lt;h2 id="lists">Lists&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">*&lt;/span> Unordered item
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">*&lt;/span> Unordered item
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">*&lt;/span> Unordered item
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">1.&lt;/span> Ordered item
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">2.&lt;/span> Ordered item
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">3.&lt;/span> Ordered item
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">- [ ]&lt;/span> Task item
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">- [x]&lt;/span> Checked Task item
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">- [ ]&lt;/span> Task item
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
-&lt;li>Unordered item&lt;/li>
-&lt;li>Unordered item&lt;/li>
-&lt;li>Unordered item&lt;/li>
-&lt;/ul>
-&lt;ol>
-&lt;li>Ordered item&lt;/li>
-&lt;li>Ordered item&lt;/li>
-&lt;li>Ordered item&lt;/li>
-&lt;/ol>
-&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Task item&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Checked Task item&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Task item&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="format">Format&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>**Bold**
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="font-style:italic">*Italic*&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">u&lt;/span>&amp;gt;Underline&amp;lt;/&lt;span style="color:#f92672">u&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">sup&lt;/span>&amp;gt;Superscript&amp;lt;/&lt;span style="color:#f92672">sup&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">sub&lt;/span>&amp;gt;Subscript&amp;lt;/&lt;span style="color:#f92672">sub&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">mark&lt;/span>&amp;gt;Highlight&amp;lt;/&lt;span style="color:#f92672">mark&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e6db74">`Inline code`&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">~~Strikethrough~~&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[&lt;span style="color:#f92672">Hyperlink&lt;/span>](&lt;span style="color:#a6e22e">http://example.com&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#f92672">Image&lt;/span>](&lt;span style="color:#a6e22e">placeholder-50-09f-fff.png&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{ .img-fluid }
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;strong>Bold&lt;/strong>&lt;/p></description></item><item><title>Security Best Practices 🔒</title><link>https://aluk.tech/hugo-mock-landing-page/page/security-best-practices/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aluk.tech/hugo-mock-landing-page/page/security-best-practices/</guid><description>&lt;h1 id="security-best-practices">Security Best Practices&lt;/h1>
-&lt;p>Improve code health of your web page following these best practices.&lt;/p>
-&lt;h2 id="use-https">Use HTTPS&lt;/h2>
-&lt;p>All websites should be protected with HTTPS, even ones that don&amp;rsquo;t handle sensitive data. HTTPS prevents intruders from tampering with or passively listening in on the communications between your site and your users.&lt;/p>
-&lt;h2 id="external-links">External Links&lt;/h2>
-&lt;p>When you link to a page on another site using the target=&amp;quot;_blank&amp;quot; attribute, you can expose your site to performance and security issues:&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Opus</title>
+    <link>https://aluk.tech/hugo-mock-landing-page/page/</link>
+    <description>Recent content in Docs on Opus</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Andrew Lukashchuk</copyright>
+    <atom:link href="https://aluk.tech/hugo-mock-landing-page/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disrupting Crowdsourcing: How Opus is Changing the Game</title>
+      <link>https://aluk.tech/hugo-mock-landing-page/page/disrupting-crowdsourcing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aluk.tech/hugo-mock-landing-page/page/disrupting-crowdsourcing/</guid>
+      <description>&lt;h1 id=&#34;disrupting-crowdsourcing-how-opus-is-changing-the-game&#34;&gt;Disrupting Crowdsourcing: How Opus is Changing the Game&lt;/h1&gt;&#xA;&lt;p&gt;Traditional crowdsourcing platforms have remained largely unchanged for years—offering &lt;strong&gt;slow, inconsistent results, underpaying respondents, and relying on outdated quality control methods&lt;/strong&gt;. Opus is here to &lt;strong&gt;disrupt&lt;/strong&gt; that model and introduce a smarter, fairer, and more efficient way to collect data and complete tasks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-problem-with-traditional-crowdsourcing&#34;&gt;The Problem with Traditional Crowdsourcing&lt;/h2&gt;&#xA;&lt;p&gt;Platforms like Amazon mTurk have long been the go-to option for gathering responses, but they come with &lt;strong&gt;major flaws&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Maximizing Your Crowdsourcing Potential with Opus</title>
+      <link>https://aluk.tech/hugo-mock-landing-page/page/maximizing-potential/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aluk.tech/hugo-mock-landing-page/page/maximizing-potential/</guid>
+      <description>&lt;h1 id=&#34;maximizing-your-crowdsourcing-potential-with-opus&#34;&gt;Maximizing Your Crowdsourcing Potential with Opus&lt;/h1&gt;&#xA;&lt;p&gt;Opus is designed to make crowdsourcing work &lt;strong&gt;better for everyone&lt;/strong&gt;—whether you&amp;rsquo;re requesting data or providing it. By combining &lt;strong&gt;AI-driven technology&lt;/strong&gt;, &lt;strong&gt;automated processes&lt;/strong&gt;, and &lt;strong&gt;gamified incentives&lt;/strong&gt;, Opus creates a platform that’s &lt;strong&gt;efficient, fair, and rewarding&lt;/strong&gt; for both parties involved.&lt;/p&gt;&#xA;&lt;h2 id=&#34;for-requesters-unlock-the-power-of-efficiency&#34;&gt;For Requesters: Unlock the Power of Efficiency&lt;/h2&gt;&#xA;&lt;p&gt;Opus enables requesters to &lt;strong&gt;gather accurate, high-quality data&lt;/strong&gt; faster than ever before. With Opus, you can:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automate Data Collection&lt;/strong&gt;: Save time with fully automated survey creation, response collection, and analysis.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ensure Data Quality&lt;/strong&gt;: Built-in &lt;strong&gt;AI quality control&lt;/strong&gt; ensures responses are relevant and valid, cutting down on the need for manual oversight.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Reduce Costs&lt;/strong&gt;: Thanks to Opus&amp;rsquo;s streamlined system, starting and running surveys is more affordable than traditional platforms like Amazon mTurk.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Faster Turnaround&lt;/strong&gt;: Get results in record time, thanks to Opus&amp;rsquo;s efficient automated workflows and fast response times.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;for-respondents-better-compensation-more-engagement&#34;&gt;For Respondents: Better Compensation, More Engagement&lt;/h2&gt;&#xA;&lt;p&gt;Opus doesn’t just benefit requesters—it’s also designed with &lt;strong&gt;respondents in mind&lt;/strong&gt;, providing them with a rewarding, engaging experience:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Opus? The Future of Crowdsourcing</title>
+      <link>https://aluk.tech/hugo-mock-landing-page/page/why-opus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aluk.tech/hugo-mock-landing-page/page/why-opus/</guid>
+      <description>&lt;h1 id=&#34;why-opus-the-future-of-crowdsourcing&#34;&gt;Why Opus? The Future of Crowdsourcing&lt;/h1&gt;&#xA;&lt;p&gt;Opus is revolutionizing the world of crowdsourcing with cutting-edge technology, smarter workflows, and a focus on higher-quality data. Whether you’re a researcher, marketer, or business owner, Opus offers the best platform for creating, managing, and gathering responses quickly and efficiently.&lt;/p&gt;&#xA;&lt;h2 id=&#34;powered-by-ai-for-higher-quality&#34;&gt;Powered by AI for Higher Quality&lt;/h2&gt;&#xA;&lt;p&gt;Opus uses &lt;strong&gt;artificial intelligence&lt;/strong&gt; to streamline and enhance the crowdsourcing experience. With AI-driven &lt;strong&gt;quality control&lt;/strong&gt;, we ensure that the responses you receive are accurate, relevant, and free from spam or irrelevant content. This AI technology is continuously learning and adapting to new patterns, improving data collection over time.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
